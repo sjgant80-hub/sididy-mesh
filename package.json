@@ -1,0 +1,12 @@
+{
+  "name": "sididy-mesh",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "sididy-mesh.mjs",
+  "description": "The wire-up — every estate organ running as one live mesh: nodes (each a wisp folding into fall-remember, kappa-gated, liveness-watched, budget-governed) bound by LIGHT, reporting whether the whole is alive.",
+  "author": "sjgant80-hub <sjgant80@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  }
+}
